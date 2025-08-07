@@ -36,14 +36,3 @@ This project demonstrates a smooth typing animation using vanilla JavaScript. Th
 - Built with clean JavaScript logic and CSS effects
 
 ---
-
-## 📂 Folder Structure
-
-```bash
-📁 project-root/
- ┣ 📂 screenshots/
- ┃ ┣ 📄 screen1.png
- ┃ ┗ 📄 screen2.png
- ┣ 📄 index.html
- ┗ 📄 README.md
-# section31-web24
