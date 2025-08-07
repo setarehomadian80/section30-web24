@@ -7,7 +7,7 @@ This project demonstrates a smooth typing animation using vanilla JavaScript. Th
 ## 📸 Screenshots
 
 ### 📷 Typing Animation in Action
-![Screenshot 1]()
+![Screenshot 1](img/Screenshot%202025-08-07%20080630.png)
 
 ### 📷 Timer
 ![Screenshot 2](img/Screenshot%202025-08-07%20080620.png)
