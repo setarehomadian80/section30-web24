@@ -10,7 +10,7 @@ This project demonstrates a smooth typing animation using vanilla JavaScript. Th
 ![Screenshot 1]()
 
 ### 📷 Timer
-![Screenshot 2]()
+![Screenshot 2](img/Screenshot%202025-08-07%20080620.png)
 
 ---
 
