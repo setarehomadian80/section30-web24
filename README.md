@@ -17,7 +17,7 @@ This project demonstrates a smooth typing animation using vanilla JavaScript. Th
 ## 🔗 Live Demo
 
 👉 [Click here to view the live demo]( https://setarehomadian80.github.io/section30-web24/)
-👉 [Click here to view the live demo](https://your-demo-link-here.com)
+👉 [Click here to view the live demo](https://setarehomadian80.github.io/section30-web24/index.Timer.html)
 
 ---
 
